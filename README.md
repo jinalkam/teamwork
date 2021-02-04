@@ -1,7 +1,7 @@
 # teamwork
 
 ## Project setup
-prerequirement node version 10.19
+prerequirement node version 10.19 and npm version 6.14
 
 then run
 
