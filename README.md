@@ -1,24 +1,20 @@
 # teamwork
 
 ## Project setup
+prerequirement node version 10.19
+first run
+
 ```
 npm install
 ```
-
+then
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+After that open http://localhost:8080/
 
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
